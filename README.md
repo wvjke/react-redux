@@ -1,7 +1,7 @@
 # Simple React-Redux App
   
 
-<a href="https://ibb.co/N28LJLb"><img src="https://i.ibb.co/VY7vzv5/screen.png" alt="screen" border="0"></a>
+<img src="https://i.ibb.co/B2XgQgF/screen.png" alt="screen" border="0" width="60%">
 
 ## Techs Used:
 * React (cra, React, Redux, Redux Toolkit, Transition)
